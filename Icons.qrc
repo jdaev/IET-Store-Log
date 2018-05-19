@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="start">
+    <file>ic_play_arrow_black_18dp_2x.png</file>
+  </qresource>
+  <qresource prefix="stop">
+    <file>ic_stop_black_18dp_2x.png</file>
+  </qresource>
+</RCC>
